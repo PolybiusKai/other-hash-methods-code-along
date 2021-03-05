@@ -17,3 +17,4 @@ describe "#get_the_keys" do
     expect(result).to eq([:dairy, :vegetable, :meat, :grains])
   end
 end
+
