@@ -14,6 +14,8 @@ def get_the_values(groceries)
   groceries.values.flatten
 end
 
+
+#Also Can Do It This Way....
 =begin 
 def get_the_values(groceries)
   #code your solution here!
